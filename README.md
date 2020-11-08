@@ -9,4 +9,5 @@ installation:
     /sdcard/sailfish_unzip/sailfish_onclite_3.2.0.12_Simondvic.tar.bz2 -C /data/.stowaways/sailfishos/
 
 4)No boot
-    
+
+Unuficial hadk Manual for building onclite: https://drive.google.com/file/d/1NIQ0HOZf164gD9_EV6vU6nwTo4Youw6o/view?usp=sharing
